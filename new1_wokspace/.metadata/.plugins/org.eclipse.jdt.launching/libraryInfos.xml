@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\softwar\java1.8_32" version="1.8.0_181">
+<bootpath>
+<entry path="E:\softwar\java1.8_32\jre\lib\resources.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\rt.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\sunrsasign.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jsse.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jce.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\charsets.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jfr.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\softwar\java1.8_32\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\softwar\java1.8_32\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="E:\softwar\java1.8_32\jre" version="1.8.0_181">
+<bootpath>
+<entry path="E:\softwar\java1.8_32\jre\lib\resources.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\rt.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\sunrsasign.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jsse.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jce.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\charsets.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\lib\jfr.jar"/>
+<entry path="E:\softwar\java1.8_32\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\softwar\java1.8_32\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\softwar\java1.8_32\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
