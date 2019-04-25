@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: haihcao-tongxin-netty
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: 22
+Built-By: Administrator
 Implementation-Vendor-Id: com.tongxin
-Build-Jdk: 1.8.0_181
+Build-Jdk: 1.8.0_172
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/haihcao-tongxin-netty
 Created-By: Maven Integration for Eclipse
