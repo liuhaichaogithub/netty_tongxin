@@ -8,7 +8,7 @@ window.app = {
 	/**
 	 * 后端服务发布的url地址
 	 */
-	serverUrl: 'http://172.16.1.85:8080',
+	serverUrl: 'http://192.168.43.81:8080',
 	
 	/**
 	 * 图片服务器的url地址

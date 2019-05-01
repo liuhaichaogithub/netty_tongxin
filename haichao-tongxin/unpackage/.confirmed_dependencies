@@ -1,0 +1,28 @@
+{
+	"index.html": {
+		"resources": [
+			"tongxin-chatList.html"
+		],
+		"refer": [
+			"tongxin-me.html",
+			"tongxin-discover.html",
+			"tongxin-chatList.html",
+			"tongxin-contact.html"
+		]
+	},
+	"login.html": {
+		"refer": [
+			"index.html"
+		]
+	},
+	"tongxin-me.html": {
+		"refer": [
+			"myface.html"
+		]
+	},
+	"myface.html": {
+		"refer": [
+			"plugin/v3.1.6/myface-uploader.html"
+		]
+	}
+}

@@ -155,5 +155,67 @@
                 }
             }
         }
-    }
+    },
+	"dependencies": {
+		"pages": {
+			"index.html": {
+				"resources": [
+					"tongxin-chatList.html"
+				],
+				"refer": [
+					"tongxin-me.html",
+					"tongxin-discover.html",
+					"tongxin-contact.html"
+				],
+				"priority": 0
+			},
+			"login.html": {
+				"resources": [],
+				"refer": [
+					"index.html"
+				],
+				"priority": 0
+			},
+			"tongxin-me.html": {
+				"resources": [],
+				"refer": [
+					"myface.html"
+				],
+				"priority": 0
+			},
+			"myface.html": {
+				"resources": [],
+				"refer": [
+					"plugin/v3.1.6/myface-uploader.html"
+				],
+				"priority": 0
+			}
+		},
+		"idle": {
+			"resources": [
+				"js/app.js",
+				"fonts/mui.ttf",
+				"css/head.css",
+				"css/registLogin/util.css",
+				"image/addfriends.png",
+				"css/mui.css",
+				"css/registLogin/main.css",
+				"image/face-default-cat.png",
+				"image/givememoney.png",
+				"image/upload.png",
+				"image/error.png",
+				"js/mui.min.js",
+				"image/friends.png",
+				"css/mui.min.css",
+				"image/success.png",
+				"image/scanscan.png",
+				"image/good.png",
+				"js/mui.js",
+				"image/qrcode.png",
+				"css/registLogin/arrow.jpg",
+				"image/download.png",
+				"image/bg.png"
+			]
+		}
+	}
 }
