@@ -30,8 +30,8 @@ public class WebsocketServer {
 		subGroup = new NioEventLoopGroup();
 		server = new ServerBootstrap();
 		server.group(mainGroup, subGroup)
-				.channel(NioServerSocketChannel.class)
-				.childHandler(new WSServerInitialzer());
+				.channel(NioServerSocketChannel.class)//设置nio双向通道
+				.childHandler(new WSServerInitialzer());//子处理器，用于处理subGroup从线程组
 	}
 	
 	public void start() {

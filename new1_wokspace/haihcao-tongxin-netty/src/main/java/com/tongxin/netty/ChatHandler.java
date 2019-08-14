@@ -40,7 +40,7 @@ public class ChatHandler extends SimpleChannelInboundHandler<TextWebSocketFrame>
 
 	@Override
 	public void handlerAdded(ChannelHandlerContext ctx) throws Exception {
-		//客户端连接后，湖区客户端的channel并且放到cannelGroup中管理
+		//客户端连接后，获取客户端的channel并且放到cannelGroup中管理
 		clients.add(ctx.channel());
 	}
 
